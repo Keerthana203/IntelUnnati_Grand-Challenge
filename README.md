@@ -8,7 +8,8 @@ This project focuses on improving road safety by analyzing accident-prone locati
 + Road networks
 + Traffic conditions
 + Hospital and ambulance locations
-+ Key Objectives
+  
+## Key Objectives
 + Accident Prone Location Detection: Using geospatial analysis to identify high-risk accident zones.
 + Emergency Response Optimization: Calculating the shortest path to nearby hospitals using Dijkstra's algorithm.
 + Ambulance Service Integration: Optimizing response time by integrating local ambulance data.
